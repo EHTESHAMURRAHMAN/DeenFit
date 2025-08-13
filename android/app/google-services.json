@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856199784183",
+    "project_id": "deenfit",
+    "storage_bucket": "deenfit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856199784183:android:b596ca66635e759b23d5f2",
+        "android_client_info": {
+          "package_name": "com.app.deenfitapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVf3PIGsy_171ImsfvUR-pWDNVg7OrrbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
